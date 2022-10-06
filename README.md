@@ -1,4 +1,5 @@
-# myfirstflutterapp
+# Institute-Id-Card
+This app will show you your virtual Id card provided by the Institute in which you are enrolled.
 
 ## Getting Started
 
