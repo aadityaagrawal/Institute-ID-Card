@@ -1,5 +1,6 @@
 # Institute-Id-Card
 This app will show you your virtual ID card provided by the Institute in which you are enrolled.
+This is a great first starting flutter project.
 
 ## Getting Started
 
